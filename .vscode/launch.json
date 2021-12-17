@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Day16/bin/Debug/net6.0/Day16.dll",
+            "program": "${workspaceFolder}/Day17/bin/Debug/net6.0/Day17.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Day16",
+            "cwd": "${workspaceFolder}/Day17",
             "console": "internalConsole",
             "stopAtEntry": false
         },
